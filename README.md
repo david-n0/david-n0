@@ -59,12 +59,13 @@ I'm a final year student at the School of Computing, in Belgrade, Serbia, studyi
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api?username=david-n0&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-n0&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
   
 
