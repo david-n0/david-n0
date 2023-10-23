@@ -1,7 +1,8 @@
 
+# Hi 👋, my name is David!  
+  
 
 ### About me:  
-### Hi 👋, my name is David!  
   
 
 I'm a final year student at the School of Computing, in Belgrade, Serbia, studying to acquire a degree in computer science.👨‍💻  
